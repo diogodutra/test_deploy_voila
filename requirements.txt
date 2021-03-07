@@ -1,6 +1,4 @@
-fastai
 voila
-ipywidgets
 absl-py==0.10.0
 alabaster==0.7.12
 albumentations==0.1.12
